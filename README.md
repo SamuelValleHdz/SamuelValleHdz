@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! 👋 / Hello! 👋
+Soy Samuel Valle, estudiante de Ingeniería Mecatrónica actualmente en mi 8vo cuatrimestre.
 
-<!--
-**SamuelValleHdz/SamuelValleHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samuel Valle, a Mechatronics Engineering student currently in my 8th semester.
 
-Here are some ideas to get you started:
+## Tecnologías / Technologies ⚙️
+- Python 🐍
+- Bash 🖥️
+- C++ ⚙️
+- JavaScript 🌐
+- MATLAB (nivel básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses / Interests 🎯
+- Robótica / Robotics 🤖
+- Linux (I use Arch, btw) 🐧
+- Desarrollo de IA local / Local AI development 🧠
+- Música EDM y Pop 🎶
+
+## Objetivos actuales / Current Goals
+- Mejorar el script de **My_University_Project**: optimizar la interfaz de usuario (UI) y agregar nuevas funcionalidades.
+
+## Contacto / Contact
+- [LinkedIn](https://www.linkedin.com/in/samuel-valle-hernandez-63747530b)
+
