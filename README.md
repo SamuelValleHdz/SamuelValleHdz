@@ -13,7 +13,6 @@ I'm Samuel Valle, a Mechatronics Engineering student currently in my 8th semeste
 ## Intereses / Interests 🎯
 - Robótica / Robotics 🤖
 - Linux (I use Arch, btw) 🐧
-- Desarrollo de IA local / Local AI development 🧠
 - Música EDM y Pop 🎶
 
 ## Objetivos actuales / Current Goals
